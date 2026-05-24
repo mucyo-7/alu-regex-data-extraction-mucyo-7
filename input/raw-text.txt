@@ -1,0 +1,55 @@
+=== ALU SUPPORT TICKET SYSTEM - RAW EXPORT ===
+Generated: 2026-05-24 | System: Helpdesk v3.2
+
+--- TICKET #1042 ---
+Student contacted support via john.doe@gmail.com and also reached out from 
+his school address mucyo.derrick@alueducation.com. He mentioned his classmate 
+sarah.jones@alumni.alueducation.com had the same issue last semester.
+Phone: +1-800-555-0192
+Alt contact: (250) 783-4521
+Issue URL: https://portal.alueducation.com/tickets/1042
+Payment failed for invoice. Card used: 4111 1111 1111 1111 (flagged)
+
+--- TICKET #1043 ---
+Staff member from SI department: prof.kim@si.alueducation.com submitted a 
+report. CC'd: admin@alueducation.com and finance@alueducation.com
+External consultant email: mark.wilson@techcorp.org
+Resource link: https://www.coursera.org/alu-partnership/module3
+Phone number on file: +250 788 123 456
+Backup number: 0722-456-789
+Card on file: 5500 0000 0000 0004
+
+--- TICKET #1044 ---
+INVALID/SUSPICIOUS ENTRIES BELOW - DO NOT PROCESS
+Email attempt: @alueducation.com (missing username - invalid)
+Email attempt: notvalid@@alueducation.com (double @ - invalid)
+Email attempt: student@alueducation (missing .com - invalid)
+Email attempt: fake@alumni.alueducation (missing .com - invalid)
+Email attempt: @si.alueducation.com (missing username - invalid)
+Email attempt: student @alueducation.com (space inside - invalid)
+Fake card: 1234 5678 9999 0000 (fails luhn check)
+Fake card: 4111-1111-1111 (incomplete number)
+Injection attempt: <script>alert('xss')</script>
+SQL injection: ' OR 1=1; DROP TABLE users; --
+Broken URL: htp:/missing-protocol.com
+Phone: 123 (too short - invalid)
+
+--- TICKET #1045 ---
+Alumni network update from peter.johnson@alumni.alueducation.com
+New blog post: https://medium.com/@alunetwork/top-10-alumni-stories-2026
+Contact for press: media@alueducation.com
+Direct line: +1 (415) 923-7654
+Card payment received: 3714 496353 98431 (Amex format)
+Secondary card: 4012 8888 8888 1881
+
+--- TICKET #1046 ---
+MIXED REALISTIC NOISE:
+"Please reach out to support-team@alueducation.com or call 0800-111-222.
+Visit our help page at https://help.alueducation.com/faq for more info.
+If urgent email the SI desk: intake@si.alueducation.com"
+Random corrupted data: ###$$%%@@@..com
+Another bad email: student@.alueducation.com (dot after @ - invalid)
+Card: 4532 1488 0343 6467
+Phone: +44 20 7946 0958
+
+=== END OF EXPORT ===
