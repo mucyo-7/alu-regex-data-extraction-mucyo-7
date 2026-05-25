@@ -1,0 +1,54 @@
+{
+    "emails": {
+        "all_emails": [
+            "john.doe@gmail.com",
+            "mucyo.derrick@alueducation.com",
+            "sarah.jones@alumni.alueducation.com",
+            "prof.kim@si.alueducation.com",
+            "admin@alueducation.com",
+            "finance@alueducation.com",
+            "mark.wilson@techcorp.org",
+            "fake@alumni.alueducation",
+            "peter.johnson@alumni.alueducation.com",
+            "media@alueducation.com",
+            "support-team@alueducation.com",
+            "intake@si.alueducation.com",
+            "student@.alueducation.com"
+        ],
+        "alu_official": [
+            "mucyo.derrick@alueducation.com",
+            "admin@alueducation.com",
+            "finance@alueducation.com",
+            "media@alueducation.com",
+            "support-team@alueducation.com"
+        ],
+        "alu_alumni": [
+            "sarah.jones@alumni.alueducation.com",
+            "peter.johnson@alumni.alueducation.com"
+        ],
+        "alu_si": [
+            "prof.kim@si.alueducation.com",
+            "intake@si.alueducation.com"
+        ]
+    },
+    "credit_cards": [
+        "**** **** **** 1111",
+        "**** **** **** 0004",
+        "**** **** **** 1881",
+        "**** **** **** 6467"
+    ],
+    "urls": [
+        "https://portal.alueducation.com/tickets/1042",
+        "https://www.coursera.org/alu-partnership/module3",
+        "https://medium.com/@alunetwork/top-10-alumni-stories-2026",
+        "https://help.alueducation.com/faq"
+    ],
+    "phones": [
+        "+1-800-555-0192",
+        "+250 788 123 456",
+        "0722-456-789",
+        "+1 (415) 923-7654",
+        "3714 496353",
+        "0800-111-222"
+    ]
+}
